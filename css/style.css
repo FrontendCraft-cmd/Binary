@@ -171,14 +171,6 @@ body.lock {
 }
 
 [class*=__container] {
-  max-width: 68.75pxrem;
-  -webkit-box-sizing: content-box;
-          box-sizing: content-box;
-  margin: 0 auto;
-  padding: 0 0.46875pxrem;
-}
-
-[class*=__container] {
   max-width: 1100px;
   margin: 0 auto;
   padding: 0px 15px;

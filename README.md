@@ -1,2 +1,2 @@
 # Binary
-https://nebeyi.github.io/Binary/
+GitHub Pages - https://nebeyi.github.io/Binary/

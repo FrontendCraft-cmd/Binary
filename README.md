@@ -1,2 +1,2 @@
 # Binary
-GitHub Pages - https://nebeyi.github.io/Binary/
+GitHub Pages - https://frontendcraft-cmd.github.io/Binary/
